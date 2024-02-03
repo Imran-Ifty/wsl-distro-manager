@@ -15,7 +15,7 @@
 - Windows operating system with WSL installed.
 
  ## How to Use
- # Using batch file [.bat] 
+ ### Using batch file [.bat] 
  1. Clone the repository:
     ```bash
     https://github.com/Imran-Ifty/wsl-distro-manager.git
@@ -26,7 +26,7 @@
     ```bash
     wsl_distro_manager.bat
  
- # Using shell script [.sh]
+ ### Using shell script [.sh]
  1. Do the same for this too
  2. Open Command Prompt of Powershell
  3. Run the Command
