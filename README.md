@@ -31,8 +31,7 @@
  2. Open Command Prompt of Powershell
  3. Run the Command
     ```bash
-    chmod +x wsl_distro_manager.sh
-    ./wsl_distro_manager.sh
+    bash wsl_distro_manager.sh
  this will work as same 
  
 ## Problem you might face
