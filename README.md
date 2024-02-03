@@ -24,5 +24,15 @@
 3. Run the script:
    ```bash
    wsl_distro_manager.bat
+
+## Problem you might face
+If  you haven't enable WSL [Linux subsytem] then 
+1. Open PowerShell as an Administrator.
+2. Run the following command to enable the WSL feature:
+     ```bash
+     dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+3.Restart your computer.
+After enabling WSL, you can proceed with [wsl-distro-manager] script or any other WSL-related tasks. 
+
 Follow the on-screen menu to perform various WSL distribution management tasks. For more information on Windows Subsystem for Linux (WSL), you can visit the [official Microsoft WSL Documentation](https://learn.microsoft.com/en-us/windows/wsl/about).
 
