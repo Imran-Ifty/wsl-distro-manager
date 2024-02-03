@@ -1,5 +1,5 @@
 # wsl-distro-manager
- A simple Windows Batch script for managing Windows Subsystem for Linux (WSL) distributions. It allows users to list installed distributions, list available distributions online, install Ubuntu 22.04, launch Ubuntu, unregister Ubuntu, and exit the script.
+ A simple Windows Batch script for managing Windows Subsystem for Linux (WSL) distributions. It allows users to list installed distributions, list available distributions online, install Ubuntu 22.04, launch Ubuntu, unregister Ubuntu, and exit the script. 
 
 ## Features
 
@@ -17,11 +17,12 @@
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Imran-Ifty/wsl-distro-manager.git
+   https://github.com/Imran-Ifty/wsl-distro-manager.git
 2. Navigate to the repository
    ```bash 
    cd wsl-distro-manager
 3. Run the script:
    ```bash
    wsl_distro_manager.bat
-Follow the on-screen menu to perform various WSL distribution management tasks.
+Follow the on-screen menu to perform various WSL distribution management tasks. For more information on Windows Subsystem for Linux (WSL), you can visit the [official Microsoft WSL Documentation](https://learn.microsoft.com/en-us/windows/wsl/about).
+
